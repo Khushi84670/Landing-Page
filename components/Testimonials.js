@@ -4,7 +4,7 @@ const testimonials = [
   { name: 'Priya S.', text: 'Love the healthy options and speedy delivery.' },
 ]
 
-export default function Testimonials(){
+export default function Testimonials() {
   return (
     <section className="py-16 bg-gradient-to-r from-indigo-50 to-white">
       <div className="max-w-6xl mx-auto px-6">
